@@ -2,7 +2,7 @@
 
 Seu objetivo é se conectar a api https://restcountries.eu/rest/v2/all e listar os países:
 
-Colocar em uma tabela a baideira, o nome e a capital de cada país.
+Colocar em uma tabela a bandeira, o nome e a capital de cada país.
 
 O resultado esperado deve ser conforme a imagem abaixo:
 
