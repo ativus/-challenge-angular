@@ -1,6 +1,6 @@
 # -challenge-angular
 
-Seu objetivo é se conectar a api https://restcountries.eu/rest/v2/all e listar os países:
+Seu objetivo é se conectar a api https://restcountries.com/v3.1/all e listar os países:
 
 Colocar em uma tabela a bandeira, o nome e a capital de cada país.
 
